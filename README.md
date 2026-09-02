@@ -1,15 +1,14 @@
-<h1 align="center">Ernesto Nava</h1>
-
 <p align="center">
-  <em>Technical Support Engineer at Cloudflare. I debug the edge at work and build on it on my own time.</em>
+  <img alt="Ernesto Nava — Technical Support Engineer at Cloudflare" src="banner.svg" width="880">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=xTOt0&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=xTOt0&theme=light">
-    <img alt="GitHub stats for xTOt0" src="https://ghstats.dev/api/card?username=xTOt0&theme=tokyonight" width="495">
-  </picture>
+  <em>I debug the edge at work and build on it on my own time.</em>
+</p>
+
+<p align="center">
+  <img alt="GitHub stats for xTOt0"
+       src="https://ghstats.dev/api/card?username=xTOt0&theme=radical&hide_border=true&hide_title=true&border_radius=40.5&size=compact&compact_count=3&hide=stars%2Cprs%2Cissues">
 </p>
 
 ---
@@ -27,7 +26,7 @@ Estado de México 🇲🇽
 | **[DevGym](https://devgym.org)** | Daily practice for developers: you write the answer, it gets graded, spaced repetition brings it back. 19 tracks, ES/EN. Live. | Durable Objects · Workers AI |
 | **[KobenOS](https://kobenos.com)** | Restaurant point of sale — tablet ordering at the table, owner dashboard, menu management. Plus its site and docs. | R2 · Hono |
 | **Car Wash App** | Booking and day-to-day operations for a car wash.| React Native · Firebase |
-| **ElMeroQuinielon** | Friends betting pool. Matchdays derived from live data, not typed in by hand. | ESPN API · cron |
+| **[ElMeroQuinielon](https://www.elmeroquinielon.win)** | Friends betting pool. Matchdays derived from live data, not typed in by hand. | ESPN API · cron |
 
 ### Work
 

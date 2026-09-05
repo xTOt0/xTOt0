@@ -16,22 +16,22 @@
 
 **Languages**
 
-<img alt="TypeScript, JavaScript, Python, HTML, CSS, Bash" src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash&theme=dark">
+<a href="https://skillicons.dev"><img alt="TypeScript, JavaScript, Python, HTML, CSS, Bash" src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash&theme=dark"></a>
 
 **Frameworks & Libraries**
 
-<img alt="React, Astro, Vite, Node.js, Tailwind" src="https://skillicons.dev/icons?i=react,astro,vite,nodejs,tailwind&theme=dark">
+<a href="https://skillicons.dev"><img alt="React, Astro, Vite, Node.js, Tailwind" src="https://skillicons.dev/icons?i=react,astro,vite,nodejs,tailwind&theme=dark"></a>
 
 **Databases & Backend**
 
-<img alt="Cloudflare D1, SQLite, Firebase" src="https://skillicons.dev/icons?i=cloudflare,sqlite,firebase&theme=dark">
+<a href="https://skillicons.dev"><img alt="Cloudflare D1, SQLite, Firebase" src="https://skillicons.dev/icons?i=cloudflare,sqlite,firebase&theme=dark"></a>
 
 **DevOps & Cloud**
 
-<img alt="Cloudflare, Git, GitHub, npm, GitHub Actions" src="https://skillicons.dev/icons?i=cloudflare,git,github,npm,githubactions&theme=dark">
+<a href="https://skillicons.dev"><img alt="Cloudflare, Git, GitHub, npm, GitHub Actions" src="https://skillicons.dev/icons?i=cloudflare,git,github,npm,githubactions&theme=dark"></a>
 
 **Tools & Operating Systems**
 
-<img alt="VS Code, PowerShell, Windows, Linux" src="https://skillicons.dev/icons?i=vscode,powershell,windows,linux&theme=dark">
+<a href="https://skillicons.dev"><img alt="VS Code, PowerShell, Windows, Linux" src="https://skillicons.dev/icons?i=vscode,powershell,windows,linux&theme=dark"></a>
 
 Available for freelance work and collaborations. Contact me.

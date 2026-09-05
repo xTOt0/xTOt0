@@ -3,44 +3,44 @@
 </p>
 
 <p align="center">
-  <em>I debug the edge at work and build on it on my own time.</em>
-</p>
-
-<p align="center">
   <img alt="GitHub stats for xTOt0"
        src="https://ghstats.dev/api/card?username=xTOt0&theme=radical&hide_border=true&hide_title=true&border_radius=40.5&size=compact&compact_count=3&hide=stars%2Cprs%2Cissues">
 </p>
 
----
+## Projects
 
-Networks came first — OSPF, VPNs, FortiGate, SNMP pipelines. Then the edge, and
-everything I build now runs there: a Worker, a D1 database next to it, one command
-to deploy.
+- [DevGym](https://devgym.org) – Daily practice for developers, 19 tracks in ES/EN
+- [KobenOS](https://kobenos.com) – Restaurant point of sale with tablet ordering
+- [El Mero Quinielón](https://www.elmeroquinielon.win) – Friends betting pool on live match data
+- [Tracker](https://github.com/xTOt0/Tracker) – Telegram bot for expenses and income – [source](https://github.com/xTOt0/Tracker)
+- Car Wash App – Booking and daily operations for a car wash
 
-Estado de México 🇲🇽
+## Contact
 
-### Projects
+- Email – [totonava99@gmail.com](mailto:totonava99@gmail.com)
+- LinkedIn – [ernesto-nava-mx](https://linkedin.com/in/ernesto-nava-mx)
+- GitHub – [@xTOt0](https://github.com/xTOt0)
 
-| | | |
-| :--- | :--- | :--- |
-| **[DevGym](https://devgym.org)** | Daily practice for developers: you write the answer, it gets graded, spaced repetition brings it back. 19 tracks, ES/EN. Live. | Durable Objects · Workers AI |
-| **[KobenOS](https://kobenos.com)** | Restaurant point of sale — tablet ordering at the table, owner dashboard, menu management. Plus its site and docs. | R2 · Hono |
-| **Car Wash App** | Booking and day-to-day operations for a car wash.| React Native · Firebase |
-| **[ElMeroQuinielon](https://www.elmeroquinielon.win)** | Friends betting pool. Matchdays derived from live data, not typed in by hand. | ESPN API · cron |
+## Technologies
 
-### Work
+**Languages**
 
-**Cloudflare** — Technical Support Engineer · Dec 2025 → now
-DNS, SSL/TLS, WAF, Workers. Packet captures and edge logs when the
-obvious answer turns out to be wrong.
+<img alt="TypeScript, JavaScript, Python, HTML, CSS, Bash" src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash&theme=dark">
 
-**Inpro Telecom** — Network Engineer · 2024 → 2025
-LAN/VPN, FortiGate, and Python ETL over SNMP and MQTT for IoT telemetry.
+**Frameworks & Libraries**
 
-B.Sc. in ICT Engineering, Instituto Tecnológico de Tlalnepantla.
+<img alt="React, Astro, Vite, Node.js, Tailwind" src="https://skillicons.dev/icons?i=react,astro,vite,nodejs,tailwind&theme=dark">
 
-<p align="center">
-  <a href="mailto:totonava99@gmail.com">totonava99@gmail.com</a>
-  ·
-  <a href="https://linkedin.com/in/ernesto-nava-mx">LinkedIn</a>
-</p>
+**Databases & Backend**
+
+<img alt="Cloudflare D1, SQLite, Firebase" src="https://skillicons.dev/icons?i=cloudflare,sqlite,firebase&theme=dark">
+
+**DevOps & Cloud**
+
+<img alt="Cloudflare, Git, GitHub, npm, GitHub Actions" src="https://skillicons.dev/icons?i=cloudflare,git,github,npm,githubactions&theme=dark">
+
+**Tools & Operating Systems**
+
+<img alt="VS Code, PowerShell, Windows, Linux" src="https://skillicons.dev/icons?i=vscode,powershell,windows,linux&theme=dark">
+
+Available for freelance work and collaborations. Contact me.

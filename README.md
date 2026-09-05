@@ -1,12 +1,3 @@
-<p align="center">
-  <img alt="Ernesto Nava — Technical Support Engineer at Cloudflare" src="banner.svg" width="880">
-</p>
-
-<p align="center">
-  <img alt="GitHub stats for xTOt0"
-       src="https://ghstats.dev/api/card?username=xTOt0&theme=radical&hide_border=true&hide_title=true&border_radius=40.5&size=compact&compact_count=3&hide=stars%2Cprs%2Cissues">
-</p>
-
 ## Projects
 
 - [DevGym](https://devgym.org) – Daily practice for developers, 19 tracks in ES/EN
